@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Luís Silvério
 #### Welcome to my GitHub profile.
-![Welcome to my GitHub profile.]
 
 Currently writing from Lisbon - Portugal. At the moment i'm a college student on my 3rd year of Computer Engineering and i've been working for the past 9 years as an IT Tech on a company that gave me a wide skill set. 
 
