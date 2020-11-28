@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Luís Silvério
 #### Welcome to my GitHub profile.
-![Welcome to my GitHub profile.](https://github.com/lc-silverio/lc-silverio/blob/main/background.jpg)
+![Welcome to my GitHub profile.]
 
 Currently writing from Lisbon - Portugal. At the moment i'm a college student on my 3rd year of Computer Engineering and i've been working for the past 9 years as an IT Tech on a company that gave me a wide skill set. 
 
@@ -12,7 +12,7 @@ You can find more about my professional path on my LinkedIn profile - silveriolu
 
 Skills: Illustrator, Photoshop, Adobe XD, VirtualBox, Networks
 
-- 🔭 I’m currently working on Finishing my college degree 
+- 🔭 I’m currently working on finishing my college degree (2021)
 - 🌱 I’m currently learning Arduino, Color Theory, Coding in several languages, 3D design,  
 - 🤔 I’m looking for help with Getting better at coding and add new skills to my tool belt 
 - 💬 Ask me about Anything tech related 
