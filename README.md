@@ -8,4 +8,4 @@ As hobbies in tech i'm interesting in GameDev, UX/UI and design.
 
 You can find more about my professional path on my LinkedIn profile - silverioluis- 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lc-silverio&show_icons=true&theme=radical](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lc-silverio&hide=contribs,prs)
