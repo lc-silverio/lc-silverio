@@ -12,9 +12,9 @@ You can find more about my professional path on my LinkedIn profile - silveriolu
 Skills: Illustrator, Photoshop, Adobe XD, VirtualBox, Networks, Computer Diagnostics and Repairs, IT Support, Data Recovery, Systems Migration, Cloning
 
 - 🔭 I’m currently working on finishing my college degree (2021)
-- 🌱 I’m currently learning Arduino, Color Theory, Coding in several languages, 3D design, Adobe XD and InDesign, Live Streaming setups for events 
+- 🌱 I’m currently learning Arduino, Color Theory, Coding in several languages, 3D design, Adobe XD and InDesign, Live Streaming setups for events and several other minor skills
 - 🤔 I’m looking for help with Getting better at coding and add new skills to my tool belt 
-- 💬 Ask me about Anything tech related 
+- 💬 Ask me about anything tech related 
 - 📫 How to reach me: 30002248@students.ual.pt 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Love science and tech 
