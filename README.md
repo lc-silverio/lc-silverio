@@ -3,7 +3,7 @@
 
 Currently writing from Lisbon - Portugal. At the moment i'm a college student on my 3rd year of Computer Engineering and i've been working for the past 9 years as an IT Tech on a company that gave me a wide skill set. 
 
-I'm currently studying HTML/CSS, JS, JAVA, Python, C++/#, Android app development and design. I'm interested in tech in general but one most of my focus goes to design, UX/UI, design and diy. Could be defined as a maker/diy'er but to be honest i'm just curious about the tech world and how things tick.
+I'm currently studying HTML/CSS, JS, JAVA, Python, C++/#, Android app development and design. I'm interested in tech in general but most of my focus goes to design, UX/UI, Game Dev and diy. Could be defined as a maker/diy'er but to be honest i'm just curious about the tech world and how things tick.
 
 As hobbies in tech i'm interesting in GameDev, UX/UI, Design and Digital Marketing.
 
