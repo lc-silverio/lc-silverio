@@ -17,7 +17,7 @@ Skills: Illustrator, Photoshop, Adobe XD, VirtualBox, Networks, Computer Diagnos
 - 💬 Ask me about anything tech related 
 - 📫 How to reach me: 30002248@students.ual.pt 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Love science and tech 
+- ⚡ Fun fact: Love science, tech and diy
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lc-silverio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/silverioluis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='adobeillustrator' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobexd.svg' alt='adobexd' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='android' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg' alt='arduino' height='40'>](#)  
