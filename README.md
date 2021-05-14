@@ -7,7 +7,7 @@ I'm currently studying HTML/CSS, JS, JAVA, Python, C++/#, Android app developmen
 
 As hobbies in tech i'm interesting in GameDev, UX/UI, Design and Digital Marketing.
 
-You can find more about my professional path on my LinkedIn profile - silverioluis- 
+You can find more about my professional path on my LinkedIn profile - lc-silverio- 
 
 Skills: Illustrator, Photoshop, Adobe XD, VirtualBox, Networks, Computer Diagnostics and Repairs, IT Support, Data Recovery, Systems Migration, Cloning
 
