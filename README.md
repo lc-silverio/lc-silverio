@@ -11,6 +11,10 @@ You can find more about my professional path on my LinkedIn profile - lc-silveri
 
 Skills: Illustrator, Photoshop, Adobe XD, VirtualBox, Networks, Computer Diagnostics and Repairs, IT Support, Data Recovery, Systems Migration, Cloning
 
+You can also check my:
+LinkedIn: linkedin.com/in/lc-silverio
+Behance: behance.net/lc-silverio
+
 - 🔭 I’m currently working on finishing my college degree (2021)
 - 🌱 I’m currently learning Arduino, Color Theory, Coding in several languages, 3D design, Adobe XD and InDesign, Live Streaming setups for events and several other minor skills
 - 🤔 I’m looking for help with Getting better at coding and add new skills to my tool belt 
