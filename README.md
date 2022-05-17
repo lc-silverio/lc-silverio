@@ -1,9 +1,11 @@
 ### Hi there 👋, I'm Luís Silvério
 #### Welcome to my GitHub profile.
 
-Currently writing from Lisbon - Portugal. At the moment i'm a college student on my 3rd year of Computer Engineering and i've been working for the past 9 years as an IT Tech on a company that gave me a wide skill set. 
+Currently writing from Lisbon - Portugal. At the moment i'm a junior dev working and i've been working for the past 10 years in IT which gave me a wide skill set. 
 
-I'm currently studying HTML/CSS, JS, JAVA, Python, C++/#, Android app development and design. I'm interested in tech in general but most of my focus goes to design, UX/UI, Game Dev and diy. Could be defined as a maker/diy'er but to be honest i'm just curious about the tech world and how things tick.
+I'm currently studying C# / .Net and for the future i intend on studying Flutter/Dart, continue to improve Python, JavaScript, Android app development and UI/UX. 
+
+I'm interested in tech in general but most of my focus goes to coding, design, UX/UI, Game Dev and diy. I could be defined as a creative/maker/diy'er but to be honest i'm just curious about the tech world and how things tick.
 
 As hobbies in tech i'm interesting in GameDev, UX/UI, Design and Digital Marketing.
 
@@ -11,7 +13,7 @@ You can find more about my professional path on my LinkedIn profile "lc-silverio
 
 Skills: Illustrator, Photoshop, Adobe XD, VirtualBox, Networks, Computer Diagnostics and Repairs, IT Support, Data Recovery, Systems Migration, Cloning
 
-- 🔭 I’m currently working on finishing my college degree (2021)
+- 🔭 Bachelors in Computer Science and Engineering since 2021
 - 🌱 I’m currently learning Arduino, Color Theory, Coding in several languages, 3D design, Adobe XD and InDesign, Live Streaming setups for events and several other minor skills
 - 🤔 I’m looking for help with Getting better at coding and add new skills to my tool belt 
 - 💬 Ask me about anything tech related 
