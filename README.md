@@ -14,12 +14,12 @@ You can find more about my professional path on my LinkedIn profile "lc-silverio
 Skills: Illustrator, Photoshop, Adobe XD, VirtualBox, Networks, Computer Diagnostics and Repairs, IT Support, Data Recovery, Systems Migration, Cloning
 
 - 🔭 Bachelors in Computer Science and Engineering since 2021
-- 🌱 I’m currently learning Arduino, Color Theory, Coding in several languages, 3D design, Adobe XD and InDesign, Live Streaming setups for events and several other minor skills
+- 🌱 I’m currently learning .Net and Angular
 - 🤔 I’m looking for help with Getting better at coding and add new skills to my tool belt 
 - 💬 Ask me about anything tech related 
 - 📫 How to reach me: 30002248@students.ual.pt 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Love science, tech and diy
+- ⚡ Fun fact: Love science, tech, gaming and diy
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lc-silverio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/silverioluis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobeillustrator.svg' alt='adobeillustrator' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobexd.svg' alt='adobexd' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg' alt='android' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/arduino.svg' alt='arduino' height='40'>](#)  
