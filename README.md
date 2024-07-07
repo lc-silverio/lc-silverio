@@ -3,11 +3,11 @@
 
 Currently writing from Lisbon - Portugal. At the moment i'm a junior dev working and i've been working for the past 10 years in IT which gave me a wide skill set. 
 
-I'm currently studying C# / .Net and for the future i intend on studying Flutter/Dart, continue to improve Python, JavaScript, Android app development and UI/UX. 
+I'm currently studying C# / .NET, Angular as well as UI/UX. 
 
 I'm interested in tech in general but most of my focus goes to coding, design, UX/UI, Game Dev and diy. I could be defined as a creative/maker/diy'er but to be honest i'm just curious about the tech world and how things tick.
 
-As hobbies in tech i'm interesting in GameDev, UX/UI, Design and Digital Marketing.
+As hobbies in tech i'm interesting in GameDev, UX/UI and Design
 
 You can find more about my professional path on my LinkedIn profile "lc-silverio" and my portfolio on behance "lc-silverio"
 
@@ -15,9 +15,9 @@ Skills: Illustrator, Photoshop, Adobe XD, VirtualBox, Networks, Computer Diagnos
 
 - 🔭 Bachelors in Computer Science and Engineering since 2021
 - 🌱 I’m currently learning .Net and Angular
-- 🤔 I’m looking for help with Getting better at coding and add new skills to my tool belt 
+- 🤔 I’m looking for help with getting better at coding and add new skills to my tool belt 
 - 💬 Ask me about anything tech related 
-- 📫 How to reach me: 30002248@students.ual.pt 
+- 📫 How to reach me: 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Love science, tech, gaming and diy
 
