@@ -17,7 +17,7 @@ Skills: Illustrator, Photoshop, Adobe XD, VirtualBox, Networks, Computer Diagnos
 - 🌱 I’m currently learning .Net and Angular
 - 🤔 I’m looking for help with getting better at coding and add new skills to my tool belt 
 - 💬 Ask me about anything tech related 
-- 📫 How to reach me: 
+- 📫 You can to reach me via my LinkedIn page 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Love science, tech, gaming and diy
 
